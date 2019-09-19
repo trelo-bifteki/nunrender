@@ -1,0 +1,24 @@
+{
+  "name": "@trelobifteki/nunrender",
+  "version": "1.0.0",
+  "description": "A simple nunjucks render by using YAML files as input",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trelo-bifteki/nunrender.git"
+  },
+  "keywords": [
+    "nunjucks",
+    "templating",
+    "rendering"
+  ],
+  "author": "Lampros Papadimitriou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trelo-bifteki/nunrender/issues"
+  },
+  "homepage": "https://github.com/trelo-bifteki/nunrender#readme"
+}
